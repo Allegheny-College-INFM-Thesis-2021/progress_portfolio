@@ -1,5 +1,4 @@
 # Progress Portfolio
-
 ## Deadline: December 8, 2021
 
 For your comp progress report at the end of the Fall 2021 semester, you will be submitting a progress portfolio of your work. This portfolio will include the following components (comprised of a single PDF document in the order listed below):
@@ -20,3 +19,6 @@ Together with your first reader, you will determine what you will submit as evid
 
 In your portfolio, you must also include a realistic timeline of your work, week-by-week, for Spring 2022. 
 
+### Submission
+
+Before you submit your progress portfolio please make sure all documents to be included in the portfolio are converted to a single PDF. Then, in the `progress_portfolio` repository on GitHub's website, navigate to `Add File`, select `Upload Files` option, drag your PDF into the appropriate section, and click on `Commit Changes`.
